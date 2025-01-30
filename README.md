@@ -33,5 +33,5 @@ Xiaomi/Redmi通用完整ROOT教程及工具
 
   以下为压缩包内部分文件及工具截图（文件已上传到Releases，如有需要自行下载）：
 ![QQ截图20250130095746](https://github.com/user-attachments/assets/7e2806b4-02de-4c91-ae8e-7e99e77bd014)
-![QQ截图20250130095539](https://github.com/user-attachments/assets/6443ca76-a691-4bd0-b2c5-5c0db0a03f2c)
+![QQ截图20250130100541](https://github.com/user-attachments/assets/57adb773-3383-4a29-93cf-6d98bc664793)
 ![QQ截图20250130095610](https://github.com/user-attachments/assets/9109957c-bb2d-4e43-8030-2544f37e1c9d)
