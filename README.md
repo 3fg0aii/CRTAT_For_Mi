@@ -1,6 +1,3 @@
-转载原项目：https://github.com/OX3301/CRTAT-of-Mi
-注：原项目账号已经用不了了，以后项目更新都是本账号更新！！！
-
 # CRTAT_For_Mi
 
 Xiaomi/Redmi通用完整ROOT教程及工具
